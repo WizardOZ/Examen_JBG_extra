@@ -14,3 +14,4 @@ export default function App({ Component }: PageProps) {
     </html>
   );
 }
+
